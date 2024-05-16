@@ -1,4 +1,6 @@
 # Nephio
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fakashicloud%2Fnephio.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fakashicloud%2Fnephio?ref=badge_shield)
+
 
 The Nephio project is building a Kubernetes-based automation platform for
 deploying and managing highly distributed, interconnected workloads such as 5G
@@ -29,3 +31,7 @@ Please see the following resources for more information:
   * Governance:
     [github.com/nephio-project/governance](https://github.com/nephio-project/governance)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fakashicloud%2Fnephio.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fakashicloud%2Fnephio?ref=badge_large)
